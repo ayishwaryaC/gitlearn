@@ -1,10 +1,10 @@
-<b>git add -> git commit -> git push<b> :)
+## git add -> git commit -> git push :)
 
-git add gitlearn1.txt 
+## git add gitlearn1.txt 
 
-git commit -m "gitlearn1.txt added"
+## git commit -m "gitlearn1.txt added"
 
-git push origin main -----  main branch 
+## git push origin main -----  main branch 
 
 PS C:\Users\ayishwaryac\Documents\github command learning> cd gitlearn
 PS C:\Users\ayishwaryac\Documents\github command learning\gitlearn> git add gitlearn1.txt
@@ -27,7 +27,7 @@ Total 3 (delta 0), reused 0 (delta 0), pack-reused 0 (from 0)
 To https://github.com/ayishwaryaC/gitlearn.git
  * [new branch]      main -> main
 
-*git pull*             -----   pull to git repository 
+## git pull           -----   pull to git repository 
 
 PS C:\Users\ayiahwaryac\Documents\github command learning\gitlearn> git pull
 remote: Enumerating objects: 4, done.
@@ -44,13 +44,14 @@ Fast-forward
  create mode 100644 gitlearn2.txt
 
 
-*Git branch*  :)
+## Git branch :)
 
 PS C:\Users\ayishwarya\Documents\github command learning\gitlearn> git branch 
 * main
 PS C:\Users\ayishwarya\HEGURU\Documents\github command learning\gitlearn> 
 
-*Git barnch name to change*   :)
+## Git barnch name to change  :)
+
 PS C:\Users\ayishwarya\Documents\github command learning\gitlearn> git branch -m master
 PS C:\Users\ayishwarya\Documents\github command learning\gitlearn> git branch 
 * master
