@@ -103,7 +103,7 @@ Fast-forward
 - remotes/origin/main2
 - PS C:\Users\ayiahwaryaC\Documents\github command learning\gitlearn> 
 
-HERE - git branch -a -> list the branch the code avaibale 
+- HERE - git branch -a -> list the branch the code avaibale 
      - now in my repository i created branch as main2 
      -  now i enter the command on terminal - git branch -a (it doent shown )
      -  now to use git pull
