@@ -1,4 +1,4 @@
-*git add -> git commit -> git push* :)
+<b>git add -> git commit -> git push<b> :)
 
 git add gitlearn1.txt 
 
